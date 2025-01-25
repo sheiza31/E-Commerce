@@ -43,5 +43,6 @@ Template ini telah dimodifikasi agar sesuai dengan kebutuhan proyek, termasuk:
 👩‍💻 Getting Started:
 
     Clone the repo: git clone https://github.com/username/repo-name.git
-    Check the README for setup instructions.    
+    Edit File.ENV 
+    Run php artisan serve
 
