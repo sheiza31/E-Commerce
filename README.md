@@ -60,7 +60,7 @@ The templates have been customized to fit project requirements, including:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/sheiza31/E-Commerce.git
    ```
 2. Edit the `.env` file with your database and configuration settings.
 3. Run the development server:
