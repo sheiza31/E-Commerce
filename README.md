@@ -1,7 +1,3 @@
-Siap! 💪 Berikut versi lengkap dan profesional dari **README.md** kamu — sudah termasuk bagian **License** dan **Project Overview**, biar tampilannya keren dan lengkap untuk GitHub:
-
----
-
 # 🌟 E-Commerce Platform
 
 A modern and scalable e-commerce solution with advanced features, secure **Midtrans Snap Payment** integration, and a fully responsive design.
